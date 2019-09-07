@@ -77,12 +77,10 @@ $ ./ta ta.dat 100000
 ```
 ## Ressources
 
-[Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems (Paul Kocher, CRYPTO'96)]: http://www.cryptography.com/resources/whitepapers/TimingAttacks.pdf
-[hwsec project]: https://gitlab.eurecom.fr/renaud.pacalet/hwsec
-[introduction lecture]: http://soc.eurecom.fr/HWSec/lectures/introduction/main.pdf
-[lecture on side channel attacks]: http://soc.eurecom.fr/HWSec/lectures/side_channels/main.pdf
-[DES C library]: http://soc.eurecom.fr/HWSec/doc/ta/C/des_8h.html
-[pcc C library]: http://soc.eurecom.fr/HWSec/doc/ta/C/pcc_8h.html
-[km C library]: http://soc.eurecom.fr/HWSec/doc/ta/C/km_8h.html
-
-<!-- vim: set tabstop=4 softtabstop=4 shiftwidth=4 noexpandtab textwidth=0: -->
+[Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems (Paul Kocher, CRYPTO'96)](http://www.cryptography.com/resources/whitepapers/TimingAttacks.pdf)
+[hwsec project](https://gitlab.eurecom.fr/renaud.pacalet/hwsec)
+[introduction lecture](http://soc.eurecom.fr/HWSec/lectures/introduction/main.pdf)
+[lecture on side channel attacks](http://soc.eurecom.fr/HWSec/lectures/side_channels/main.pdf)
+[DES C library](http://soc.eurecom.fr/HWSec/doc/ta/C/des_8h.html)
+[pcc C library](http://soc.eurecom.fr/HWSec/doc/ta/C/pcc_8h.html)
+[km C library](http://soc.eurecom.fr/HWSec/doc/ta/C/km_8h.html)
